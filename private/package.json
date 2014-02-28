@@ -1,0 +1,10 @@
+{
+  "name": "ticketapply",
+  "description": "Ticketapply - Self serviced ticketshop",
+  "version": "0.0.1",
+  "author": "Harco Gijsbers <hakog77@gmail.com>",
+  "private" : true,
+  "dependencies": {
+    "express": "3.x"
+  }
+}
